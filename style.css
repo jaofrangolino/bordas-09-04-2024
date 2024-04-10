@@ -2,3 +2,66 @@
 {
     border-style: solid;
 }
+
+.dashed
+{
+    border-style: dashed;
+}
+
+.dotted
+{
+    border-style: dotted;
+}
+
+.groove
+{
+    border-style: groove;
+}
+
+.ridge
+{
+    border-style: ridge;
+}
+
+.outset
+{
+    border-style: outset;
+}
+
+.none
+{
+    border-style: none;
+}
+
+.hidden
+{
+    border-style: hidden;
+}
+
+.tamanho1
+{
+    border-style: solid;
+    border-width: 5px;
+}
+.tamanho2
+{
+    border-style: dotted;
+    border-width: 5px;
+}
+.vermelho
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+.cores
+{
+    border-style: solid;
+    border-color: blue chartreuse firebrick magenta;
+    border-width: 5px;
+}
+
+.abreviada
+{
+    border: 5px groove red;
+}
